@@ -1,0 +1,6 @@
+password=""
+password=int(input("enter your password:")
+while password != "Greesh123":
+   password=int(input("enter your password:")) 
+   print("succesfully")
+   
